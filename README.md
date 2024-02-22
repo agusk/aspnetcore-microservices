@@ -1,12 +1,8 @@
-**UDEMY COURSE WITH DISCOUNTED - Step by Step Development of this Repository -> https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=FEBRU24**
-
 See the overall picture of **implementations on microservices with .net tools** on real-world **e-commerce microservices** project;
 
 ![microservices_remastered](https://user-images.githubusercontent.com/1147445/110304529-c5b70180-800c-11eb-832b-a2751b5bda76.png)
 
 There is a couple of microservices which implemented **e-commerce** modules over **Catalog, Basket, Discount** and **Ordering** microservices with **NoSQL (MongoDB, Redis)** and **Relational databases (PostgreSQL, Sql Server)** with communicating over **RabbitMQ Event Driven Communication** and using **Ocelot API Gateway**.
-
-And here continuation of the main course -> [Microservices Observability with Distributed Logging, Health Monitoring, Resilient and Fault Tolerance with using Polly](https://www.udemy.com/course/microservices-observability-resilience-monitoring-on-net/?referralCode=D162C050483C75452136)
 
 ### Check Explanation of this Repository on Medium
 * [Microservices Architecture on .NET with applying CQRS, Clean Architecture and Event-Driven Communication](https://medium.com/aspnetrun/microservices-architecture-on-net-3b4865eea03f)
