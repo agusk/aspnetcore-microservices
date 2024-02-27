@@ -37,5 +37,10 @@ namespace Ordering.Application.Features.Orders.Commands.DeleteOrder
 
             return Unit.Value;
         }
+
+        Task IRequestHandler<DeleteOrderCommand>.Handle(DeleteOrderCommand request, CancellationToken cancellationToken)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
